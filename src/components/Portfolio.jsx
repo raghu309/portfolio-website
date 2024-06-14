@@ -8,7 +8,7 @@ export default function Portfolio() {
         <div className="portfolio-container">
           <div
             onClick={() => {
-              window.open('https://github.com/raghu309', '_blank', 'noopener,noreferrer');
+              window.open('https://github.com/raghu309/blog-frontent', '_blank', 'noopener,noreferrer');
             }}
             style={{
               backgroundImage: "url(/img/blog.png)",
